@@ -4,7 +4,9 @@ As disciplinas podem ser acessadas nos links a seguir:
 * **MANHÃ**
   + **Memorial**
     + [Arquitetura de Software](https://github.com/EdsonMSouza/arquitetura_de_software_memorial_manha)
+    + [Projeto Prático em Sistemas - TADS](https://github.com/EdsonMSouza/projetos_memorial_2_manha_tads)
     + [Jogos Digitais](https://github.com/EdsonMSouza/jogos_digitais_memorial_manha)
+    + [Projeto em Desenvolvimento e Sistemas Interativos - CC](https://github.com/EdsonMSouza/projetos_memorial_3_manha_cc)
     
   + **Vila Maria**
     + [Desenvolvimento de Aplicativos Móveis Híbridos](https://github.com/EdsonMSouza/mobile_vila_maria_manha)
