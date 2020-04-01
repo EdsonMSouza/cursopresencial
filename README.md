@@ -20,7 +20,7 @@ As disciplinas podem ser acessadas nos links a seguir:
   + **MANHÃ**
     + [Desenvolvimento de Aplicativos Móveis Híbridos - TADS](https://github.com/EdsonMSouza/mobile_vila_maria_manha)
   + **NOITE**
-    + [Projeto Prático em Sistemas - TADS]() (Pré-aula) 
+    + [Projeto Prático em Sistemas - TADS](https://github.com/EdsonMSouza/projetos_vila_maria_4_noite) (Pré-aula) 
     + [Desenvolvimento de Aplicativos Móveis Híbridos - TADS](https://github.com/EdsonMSouza/mobile_vila_maria_noite)
   
 * **Quinta-Feira (Memorial)**
