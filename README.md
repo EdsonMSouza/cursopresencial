@@ -2,37 +2,37 @@
 
 As disciplinas podem ser acessadas nos links a seguir:
 
-* **Segunda-Feira (Memorial)**
-  + **MANHÃ**
+* **SEGUNDA-FEIRA (Memorial)**
+  + **Manhã**
       + [Arquitetura de Software - TADS](https://github.com/EdsonMSouza/arquitetura_de_software_memorial_manha)
       + [Projeto Prático em Sistemas - TADS](https://github.com/EdsonMSouza/projetos_memorial_2_manha_tads) (Pós-aula)  
-  + **NOITE**
+  + **Noite**
     + [Arquitetura de Software - TADS](https://github.com/EdsonMSouza/arquitetura_de_software_memorial_noite)
 
-* **Terça-Feira (Memorial)**
-  + **MANHÃ (Memorial)**
+* **TERÇA-FEIRA (Memorial)**
+  + **Manhã (Memorial)**
     + [Jogos Digitais - CC](https://github.com/EdsonMSouza/jogos_digitais_memorial_manha)
     + [Projeto em Desenvolvimento e Sistemas Interativos - CC](https://github.com/EdsonMSouza/projetos_memorial_3_manha_cc) (Pós-aula)
-  + **NOITE**
+  + **Noite**
     + [Desenvolvimento de Aplicativos Móveis Híbridos - TADS](https://github.com/EdsonMSouza/mobile_memorial_noite)
   
-* **Quarta-Feira (Vila Maria)**
-  + **MANHÃ**
+* **QUARTA-FEIRA (Vila Maria)**
+  + **Manhã**
     + [Desenvolvimento de Aplicativos Móveis Híbridos - TADS](https://github.com/EdsonMSouza/mobile_vila_maria_manha)
-  + **NOITE**
+  + **Noite**
     + [Projeto Prático em Sistemas - TADS](https://github.com/EdsonMSouza/projetos_vila_maria_4_noite) (Pré-aula) 
     + [Desenvolvimento de Aplicativos Móveis Híbridos - TADS](https://github.com/EdsonMSouza/mobile_vila_maria_noite)
   
-* **Quinta-Feira (Memorial)**
-  + **MANHÃ**
+* **QUINTA-FEIRA (Memorial)**
+  + **Manhã**
     + [Jogos Digitais - CC](https://github.com/EdsonMSouza/jogos_digitais_memorial_manha)
-  + **NOITE**
-    + [Projeto de Governança em TI - SI]() (Pré-aula)
+  + **Noite**
+    + [Projeto de Governança em TI - SI](https://github.com/EdsonMSouza/projetos_memorial_5_noite) (Pré-aula)
     + [Ciência de Dados - SI](https://github.com/EdsonMSouza/ciencia_de_dados_memorial_noite)
 
-* **Sexta-Feira (Vergueiro)**
-  + **MANHÃ**
+* **SEXTA-FEIRA (Vergueiro)**
+  + **Manhã**
     + [Arquitetura de Software](https://github.com/EdsonMSouza/arquitetura_de_software_vergueiro_manha)
-  + **NOITE**
-    + [Projeto de Desenvolvimento em Aplicações Multiplataforma - CC]() (Pré-aula)
+  + **Noite**
+    + [Projeto de Desenvolvimento em Aplicações Multiplataforma - CC](https://github.com/EdsonMSouza/projetos_vergueiro_6_noite) (Pré-aula)
     + [Computação Móvel - CC](https://github.com/EdsonMSouza/mobile_vergueiro_noite)
